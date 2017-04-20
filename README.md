@@ -1,4 +1,4 @@
-![Vy Logo](vy.jpg)
+![Vy Logo](vy.png)
 
 Vy will be a tool for entering Unihan characters visually.
 
